@@ -203,7 +203,7 @@
 
     <div class="nav-right">
         <a href="owner-home.php" class="nav-btn">Home</a>
-        <a href="car-history.php" class="nav-btn">History</a>
+        <a href="car-history.php" class="nav-btn">Management</a>
         <a href="index.php" class="nav-btn logout">Logout</a>
     </div>
 </div>
