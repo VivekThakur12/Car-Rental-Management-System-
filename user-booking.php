@@ -607,7 +607,6 @@ if(isset($_GET['car_id'])) {
         } else {
             echo '
             <div class="empty-box">
-                <div class="icon">📭</div>
                 <h2>No Bookings Yet</h2>
                 <p>You haven\'t booked any car yet. Go to Home and click "Book Now" to start your first booking!</p>
                 <a href="user-home.php" class="btn">Go to Home</a>

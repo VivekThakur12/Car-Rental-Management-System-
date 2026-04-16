@@ -295,7 +295,6 @@ if ($result->num_rows > 0) {
     // Display message if no cars in database
     echo '
     <div class="empty-box">
-        <div class="icon">🚫</div>
         <h2>No Cars Available</h2>
         <p>This time no cars available. Please try again later.</p>
         <a href="user-home.php" class="retry-btn">Refresh</a>
